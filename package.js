@@ -60,7 +60,16 @@ Package.onUse(function(api) {
   assets.add(baseAssetPath, 'VideoJS.ttf')
   assets.add(baseAssetPath, 'VideoJS.woff')
 
+
+  // language
+  const languagePath = ['videojs', 'lang']
+
+  assets.add(languagePath, 'en.js')
+  assets.add(languagePath, 'ru.js')
+
   api.addFiles(client.files, client.arch)
   api.addFiles('video-js-override.css', 'client')
   api.addAssets(assets.files, assets.arch)
+
+
 })

@@ -1,9 +1,9 @@
 /*Overrride font urls*/
 @font-face{
   font-family: VideoJS;
-  src:url('/packages/jrudio_videojs/videojs/fonts/VideoJS.eot');
-  src:url('/packages/jrudio_videojs/videojs/fonts/VideoJS.eot?#iefix') format('embedded_opentype'),
-  url('/packages/jrudio_videojs/videojs/fonts/VideoJS.woff') format('woff'),
-  url('/packages/jrudio_videojs/videojs/fonts/VideoJS.ttf') format('truetype'),
-  url('/packages/jrudio_videojs/videojs/fonts/VideoJS.svg#icomoon') format('svg');
+  src:url('/packages/lf-videojs/videojs/fonts/VideoJS.eot');
+  src:url('/packages/lf-videojs/videojs/fonts/VideoJS.eot?#iefix') format('embedded_opentype'),
+  url('/packages/lf-videojs/videojs/fonts/VideoJS.woff') format('woff'),
+  url('/packages/lf-videojs/videojs/fonts/VideoJS.ttf') format('truetype'),
+  url('/packages/lf-videojs/videojs/fonts/VideoJS.svg#icomoon') format('svg');
 }
