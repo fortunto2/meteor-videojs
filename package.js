@@ -1,7 +1,7 @@
 Package.describe({
   name: 'lifefilm:videojs',
-  summary: 'VideoJS v5.10.7',
-  version: '5.10.7',
+  summary: 'VideoJS v5.15.1',
+  version: '5.15.1',
   git: 'https://github.com/fortunto2/meteor-videojs.git'
 })
 
